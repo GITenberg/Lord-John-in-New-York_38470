@@ -1,0 +1,39 @@
+_repo: Lord-John-in-New-York_38470
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38470-h/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: Williamson, A. M. (Alice Muriel)
+    aliases:
+    - Williamson, Alice Muriel
+    - Williamson, Mrs. C. N.
+    birthdate: 1869
+    deathdate: 1933
+    gutenberg_agent_id: '3796'
+    url: http://www.gutenberg.org/2009/agents/3796
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Muriel_Williamson
+  - agent_name: Williamson, C. N. (Charles Norris)
+    alias: Williamson, Charles Norris
+    birthdate: 1859
+    deathdate: 1920
+    gutenberg_agent_id: '3522'
+    url: http://www.gutenberg.org/2009/agents/3522
+description: ''
+gutenberg_issued: '2012-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Fiction'
+- !lcsh 'British -- United States -- Fiction'
+- !lcsh 'Love stories'
+title: Lord John in New York
+url: http://www.gutenberg.org/ebooks/38470
